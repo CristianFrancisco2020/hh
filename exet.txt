@@ -1,0 +1,10 @@
+aaa
+a
+
+a
+a
+a
+a
+int main(){
+sfsdfsdfsd
+return 0;
